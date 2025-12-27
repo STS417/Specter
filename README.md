@@ -1,12 +1,11 @@
 # Specter
-# Specter is a Saas platform that transform Software Deployments into narrative timelines, allowing users to fork, replay, and analyze the impact of ArgoCD deployments 
+# Specter is a Saas platform that transform stock data from congressional members into easy to read and follow formats. 
 
 Key Capabilities
-* Real-time event ingestions from ArgoCD
+* Real-time event ingestions
 
-* Deployment timeline constructions
+* Notify user of trade movements 
 
-* Counterfactual/forked timeline simulations
 
 * Narrative generation via LLM
 
@@ -18,5 +17,4 @@ Key Capabilities
 
 # Tech Goals
 
-Demonstrate advanced systems architures in a easy to follow, gamified format. Using AI reasoning to monitoring containerized microservices in a Saas-ready design. Specter aims to make logs fun.
-
+Specter aims to render data into an easy to read format, displaying trade movements into a heat map, track involvment, and maintain transparentency.
